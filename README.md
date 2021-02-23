@@ -1,16 +1,13 @@
-# chatapp
+# Air Ping
 
-A new Flutter project.
+Features of my Chat App - Air Ping
+📍 Share Images & Video and view without any downloads.
+📍 Share Files.
+📍 Can request Location from another user - much better than sharing location directly; User gets a notification when the other person has requested the location and then he can choose to Accept / Deny.
+📍 Automated Push Notifications when a message is sent - Using FCM; This is a smart feature that sends notifications when the app is either running in the background or is terminated. The Notification Function is created using JavaScript.
+📍 Call or send an email directly from the app.
 
-## Getting Started
+## LinkedIn Post & Video
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[LinkedIn Post](https://www.linkedin.com/posts/dakshjain09_like-rightmentor-vimaldaga-activity-6770033985662853120-n_yx)
+[LinkedIn Post](https://www.linkedin.com/posts/khushi-thareja_like-rightmentor-vimaldaga-activity-6770034653215686656-08yt)
