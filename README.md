@@ -8,6 +8,6 @@ Features of my Chat App - Air Ping
 📍 Call or send an email directly from the app.  
 
 ## LinkedIn Post & Video
-
-[LinkedIn Post](https://www.linkedin.com/posts/dakshjain09_like-rightmentor-vimaldaga-activity-6770033985662853120-n_yx)
+ 
+[LinkedIn Post](https://www.linkedin.com/posts/dakshjain09_like-rightmentor-vimaldaga-activity-6770033985662853120-n_yx)  
 [LinkedIn Post](https://www.linkedin.com/posts/khushi-thareja_like-rightmentor-vimaldaga-activity-6770034653215686656-08yt)
